@@ -1,0 +1,38 @@
+table {
+    text-align: center;
+    width: 600px;
+}
+.title {
+    height: 120px;
+}
+th {
+    color: blue;
+    font-size: 30px;
+}
+.cn1 {
+    background-color: red;
+}
+.t71 {
+    background-color: blue;
+}
+.thu {
+    color: white;
+    background-color: #FFB300;
+}
+.border {
+    border-collapse: collapse;
+    height: 200px;
+}
+.border td {
+    border: 2px solid #CBCBCB;
+}
+.cn {
+    color: red;
+}
+.t7 {
+    color: blue;
+}
+span {
+    color: black;
+    font-size: 10px;
+}
